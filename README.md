@@ -16,7 +16,7 @@ Asegúrate de tener instalado:
 3. 📜 Impresión de Recibos en PDF y Excel
 
 ## Contribuciones
-Si quieres contribuir a este proyecto, por favor abre un issue o envía una solicitud de extracción (pull request).
+Si querés contribuir a este proyecto, por favor abrí un issue o envía una solicitud de extracción (pull request).
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
